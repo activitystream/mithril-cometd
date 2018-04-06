@@ -1,6 +1,6 @@
 {
   "name": "mithril-cometd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mithril bindings for cometd",
   "main": "./mithril/mithril.cometd.js",
   "scripts": {
@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/activitystream/mithril-cometd.git"
   },
-  "keywords": [
-    "mithril",
-    "cometd"
-  ],
+  "keywords": ["mithril", "cometd"],
   "author": "Activity Stream",
   "license": "Apache-2.0",
   "bugs": {
